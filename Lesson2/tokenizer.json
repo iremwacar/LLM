@@ -1,0 +1,14 @@
+{
+   "Bir": 0,
+   "Kedi": 1,
+   "kedi": 2,
+   "köpek": 3,
+   "Köpek": 4,
+   "köpeği": 5,
+   "kovaladı": 6,
+   "kediyi": 7,
+   "Türkiye": 8,
+   "Türkiye'nin": 9,
+   "başkenti": 10,
+   "<unk>": 11
+}
